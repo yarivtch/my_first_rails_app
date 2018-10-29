@@ -1,0 +1,15 @@
+current directory: /home/yarivtch/odin_on_rails/my_first_rails_app/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+/usr/bin/ruby2.5 -r ./siteconf20181029-13198-10j93lx.rb extconf.rb
+creating Makefile
+
+current directory: /home/yarivtch/odin_on_rails/my_first_rails_app/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/yarivtch/odin_on_rails/my_first_rails_app/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/yarivtch/odin_on_rails/my_first_rails_app/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20181029-13198-1ex1gr5
